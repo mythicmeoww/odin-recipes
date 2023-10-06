@@ -1,0 +1,1 @@
+This is a project designed to build a website and practice the process of creating directories using the CLI in Linux, using Git and its CLI commands, and HTML fundamentals
